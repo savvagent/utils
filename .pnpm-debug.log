@@ -1,0 +1,3042 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 debug pnpm:package-manifest": {
+    "initial": {},
+    "prefix": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638"
+  },
+  "2 debug pnpm:context": {
+    "currentLockfileExists": false,
+    "storeDir": "/media/robhicks/Data/.pnpm-store/v3",
+    "virtualStoreDir": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm"
+  },
+  "3 debug pnpm:stage": {
+    "prefix": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "stage": "resolution_started"
+  },
+  "4 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/eslint/8.18.0",
+    "wanted": {
+      "dependentId": ".",
+      "name": "eslint",
+      "rawSpec": "latest"
+    }
+  },
+  "5 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint/8.18.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "6 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint/8.18.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "7 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/esutils/2.0.3",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "esutils",
+      "rawSpec": "^2.0.2"
+    }
+  },
+  "8 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/esutils/2.0.3",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "9 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/escape-string-regexp/4.0.0",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "escape-string-regexp",
+      "rawSpec": "^4.0.0"
+    }
+  },
+  "10 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/escape-string-regexp/4.0.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "11 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/fast-deep-equal/3.1.3",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "fast-deep-equal",
+      "rawSpec": "^3.1.3"
+    }
+  },
+  "12 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/fast-deep-equal/3.1.3",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "13 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/esutils/2.0.3",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "14 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/escape-string-regexp/4.0.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "15 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/fast-deep-equal/3.1.3",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "16 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/eslint-utils/3.0.0",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "eslint-utils",
+      "rawSpec": "^3.0.0"
+    }
+  },
+  "17 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-utils/3.0.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "18 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/debug/4.3.4",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "debug",
+      "rawSpec": "^4.3.2"
+    }
+  },
+  "19 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/debug/4.3.4",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "20 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/eslint-scope/7.1.1",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "eslint-scope",
+      "rawSpec": "^7.1.1"
+    }
+  },
+  "21 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-scope/7.1.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "22 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/cross-spawn/7.0.3",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "cross-spawn",
+      "rawSpec": "^7.0.2"
+    }
+  },
+  "23 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/cross-spawn/7.0.3",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "24 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/chalk/4.1.2",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "chalk",
+      "rawSpec": "^4.0.0"
+    }
+  },
+  "25 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/chalk/4.1.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "26 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-utils/3.0.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "27 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/debug/4.3.4",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "28 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-scope/7.1.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "29 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/cross-spawn/7.0.3",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "30 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/chalk/4.1.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "31 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/doctrine/3.0.0",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "doctrine",
+      "rawSpec": "^3.0.0"
+    }
+  },
+  "32 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/doctrine/3.0.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "33 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/doctrine/3.0.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "34 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/esquery/1.4.0",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "esquery",
+      "rawSpec": "^1.4.0"
+    }
+  },
+  "35 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/esquery/1.4.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "36 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/glob-parent/6.0.2",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "glob-parent",
+      "rawSpec": "^6.0.1"
+    }
+  },
+  "37 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/glob-parent/6.0.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "38 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/ajv/6.12.6",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "ajv",
+      "rawSpec": "^6.10.0"
+    }
+  },
+  "39 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ajv/6.12.6",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "40 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/eslint-visitor-keys/3.3.0",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "eslint-visitor-keys",
+      "rawSpec": "^3.3.0"
+    }
+  },
+  "41 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-visitor-keys/3.3.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "42 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/espree/9.3.2",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "espree",
+      "rawSpec": "^9.3.2"
+    }
+  },
+  "43 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/espree/9.3.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "44 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/js-yaml/4.1.0",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "js-yaml",
+      "rawSpec": "^4.1.0"
+    }
+  },
+  "45 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/js-yaml/4.1.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "46 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/functional-red-black-tree/1.0.1",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "functional-red-black-tree",
+      "rawSpec": "^1.0.1"
+    }
+  },
+  "47 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/functional-red-black-tree/1.0.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "48 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/file-entry-cache/6.0.1",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "file-entry-cache",
+      "rawSpec": "^6.0.1"
+    }
+  },
+  "49 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/file-entry-cache/6.0.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "50 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/is-glob/4.0.3",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "is-glob",
+      "rawSpec": "^4.0.0"
+    }
+  },
+  "51 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/is-glob/4.0.3",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "52 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/esquery/1.4.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "53 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/glob-parent/6.0.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "54 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/imurmurhash/0.1.4",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "imurmurhash",
+      "rawSpec": "^0.1.4"
+    }
+  },
+  "55 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/imurmurhash/0.1.4",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "56 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/globals/13.15.0",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "globals",
+      "rawSpec": "^13.15.0"
+    }
+  },
+  "57 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/globals/13.15.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "58 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/levn/0.4.1",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "levn",
+      "rawSpec": "^0.4.1"
+    }
+  },
+  "59 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/levn/0.4.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "60 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/ignore/5.2.0",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "ignore",
+      "rawSpec": "^5.2.0"
+    }
+  },
+  "61 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ignore/5.2.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "62 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ajv/6.12.6",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "63 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-visitor-keys/3.3.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "64 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/espree/9.3.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "65 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/js-yaml/4.1.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "66 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/functional-red-black-tree/1.0.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "67 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/file-entry-cache/6.0.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "68 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/is-glob/4.0.3",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "69 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/imurmurhash/0.1.4",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "70 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/globals/13.15.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "71 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/levn/0.4.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "72 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ignore/5.2.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "73 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/json-stable-stringify-without-jsonify/1.0.1",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "json-stable-stringify-without-jsonify",
+      "rawSpec": "^1.0.1"
+    }
+  },
+  "74 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/json-stable-stringify-without-jsonify/1.0.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "75 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/import-fresh/3.3.0",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "import-fresh",
+      "rawSpec": "^3.0.0"
+    }
+  },
+  "76 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/import-fresh/3.3.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "77 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/optionator/0.9.1",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "optionator",
+      "rawSpec": "^0.9.1"
+    }
+  },
+  "78 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/optionator/0.9.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "79 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/strip-ansi/6.0.1",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "strip-ansi",
+      "rawSpec": "^6.0.1"
+    }
+  },
+  "80 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/strip-ansi/6.0.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "81 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/json-stable-stringify-without-jsonify/1.0.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "82 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/optionator/0.9.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "83 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/import-fresh/3.3.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "84 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/strip-ansi/6.0.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "85 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/minimatch/3.1.2",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "minimatch",
+      "rawSpec": "^3.1.2"
+    }
+  },
+  "86 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/minimatch/3.1.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "87 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/minimatch/3.1.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "88 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/lodash.merge/4.6.2",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "lodash.merge",
+      "rawSpec": "^4.6.2"
+    }
+  },
+  "89 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/lodash.merge/4.6.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "90 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/regexpp/3.2.0",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "regexpp",
+      "rawSpec": "^3.2.0"
+    }
+  },
+  "91 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/regexpp/3.2.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "92 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/strip-json-comments/3.1.1",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "strip-json-comments",
+      "rawSpec": "^3.1.0"
+    }
+  },
+  "93 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/strip-json-comments/3.1.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "94 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/@eslint/eslintrc/1.3.0",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "@eslint/eslintrc",
+      "rawSpec": "^1.3.0"
+    }
+  },
+  "95 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@eslint/eslintrc/1.3.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "96 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/text-table/0.2.0",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "text-table",
+      "rawSpec": "^0.2.0"
+    }
+  },
+  "97 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/text-table/0.2.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "98 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/regexpp/3.2.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "99 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/lodash.merge/4.6.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "100 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@eslint/eslintrc/1.3.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "101 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/strip-json-comments/3.1.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "102 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/text-table/0.2.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "103 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/@humanwhocodes/config-array/0.9.5",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "@humanwhocodes/config-array",
+      "rawSpec": "^0.9.2"
+    }
+  },
+  "104 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@humanwhocodes/config-array/0.9.5",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "105 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@humanwhocodes/config-array/0.9.5",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "106 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/natural-compare/1.4.0",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "natural-compare",
+      "rawSpec": "^1.4.0"
+    }
+  },
+  "107 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/natural-compare/1.4.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "108 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/natural-compare/1.4.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "109 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/v8-compile-cache/2.3.0",
+    "wanted": {
+      "dependentId": "/eslint/8.18.0",
+      "name": "v8-compile-cache",
+      "rawSpec": "^2.0.3"
+    }
+  },
+  "110 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/v8-compile-cache/2.3.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "111 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/eslint-visitor-keys/2.1.0",
+    "wanted": {
+      "dependentId": "/eslint-utils/3.0.0",
+      "name": "eslint-visitor-keys",
+      "rawSpec": "^2.0.0"
+    }
+  },
+  "112 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/esutils/2.0.3",
+    "wanted": {
+      "dependentId": "/doctrine/3.0.0",
+      "name": "esutils",
+      "rawSpec": "^2.0.2"
+    }
+  },
+  "113 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/is-glob/4.0.3",
+    "wanted": {
+      "dependentId": "/glob-parent/6.0.2",
+      "name": "is-glob",
+      "rawSpec": "^4.0.3"
+    }
+  },
+  "114 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/fast-deep-equal/3.1.3",
+    "wanted": {
+      "dependentId": "/ajv/6.12.6",
+      "name": "fast-deep-equal",
+      "rawSpec": "^3.1.1"
+    }
+  },
+  "115 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-visitor-keys/2.1.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "116 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/eslint-visitor-keys/3.3.0",
+    "wanted": {
+      "dependentId": "/espree/9.3.2",
+      "name": "eslint-visitor-keys",
+      "rawSpec": "^3.3.0"
+    }
+  },
+  "117 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/ms/2.1.2",
+    "wanted": {
+      "dependentId": "/debug/4.3.4",
+      "name": "ms",
+      "rawSpec": "2.1.2"
+    }
+  },
+  "118 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ms/2.1.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "119 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/v8-compile-cache/2.3.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "120 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-visitor-keys/2.1.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "121 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ms/2.1.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "122 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/argparse/2.0.1",
+    "wanted": {
+      "dependentId": "/js-yaml/4.1.0",
+      "name": "argparse",
+      "rawSpec": "^2.0.1"
+    }
+  },
+  "123 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/argparse/2.0.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "124 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/json-schema-traverse/0.4.1",
+    "wanted": {
+      "dependentId": "/ajv/6.12.6",
+      "name": "json-schema-traverse",
+      "rawSpec": "^0.4.1"
+    }
+  },
+  "125 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/json-schema-traverse/0.4.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "126 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/fast-json-stable-stringify/2.1.0",
+    "wanted": {
+      "dependentId": "/ajv/6.12.6",
+      "name": "fast-json-stable-stringify",
+      "rawSpec": "^2.0.0"
+    }
+  },
+  "127 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/fast-json-stable-stringify/2.1.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "128 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/estraverse/5.3.0",
+    "wanted": {
+      "dependentId": "/eslint-scope/7.1.1",
+      "name": "estraverse",
+      "rawSpec": "^5.2.0"
+    }
+  },
+  "129 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/estraverse/5.3.0",
+    "wanted": {
+      "dependentId": "/esquery/1.4.0",
+      "name": "estraverse",
+      "rawSpec": "^5.1.0"
+    }
+  },
+  "130 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/estraverse/5.3.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "131 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/is-extglob/2.1.1",
+    "wanted": {
+      "dependentId": "/is-glob/4.0.3",
+      "name": "is-extglob",
+      "rawSpec": "^2.1.1"
+    }
+  },
+  "132 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/is-extglob/2.1.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "133 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/argparse/2.0.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "134 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/json-schema-traverse/0.4.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "135 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/fast-json-stable-stringify/2.1.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "136 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/estraverse/5.3.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "137 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/is-extglob/2.1.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "138 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/uri-js/4.4.1",
+    "wanted": {
+      "dependentId": "/ajv/6.12.6",
+      "name": "uri-js",
+      "rawSpec": "^4.2.2"
+    }
+  },
+  "139 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/uri-js/4.4.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "140 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/ansi-styles/4.3.0",
+    "wanted": {
+      "dependentId": "/chalk/4.1.2",
+      "name": "ansi-styles",
+      "rawSpec": "^4.1.0"
+    }
+  },
+  "141 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ansi-styles/4.3.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "142 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/esrecurse/4.3.0",
+    "wanted": {
+      "dependentId": "/eslint-scope/7.1.1",
+      "name": "esrecurse",
+      "rawSpec": "^4.3.0"
+    }
+  },
+  "143 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/esrecurse/4.3.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "144 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/supports-color/7.2.0",
+    "wanted": {
+      "dependentId": "/chalk/4.1.2",
+      "name": "supports-color",
+      "rawSpec": "^7.1.0"
+    }
+  },
+  "145 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/supports-color/7.2.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "146 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/levn/0.4.1",
+    "wanted": {
+      "dependentId": "/optionator/0.9.1",
+      "name": "levn",
+      "rawSpec": "^0.4.1"
+    }
+  },
+  "147 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/path-key/3.1.1",
+    "wanted": {
+      "dependentId": "/cross-spawn/7.0.3",
+      "name": "path-key",
+      "rawSpec": "^3.1.0"
+    }
+  },
+  "148 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/path-key/3.1.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "149 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/which/2.0.2",
+    "wanted": {
+      "dependentId": "/cross-spawn/7.0.3",
+      "name": "which",
+      "rawSpec": "^2.0.1"
+    }
+  },
+  "150 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/which/2.0.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "151 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/shebang-command/2.0.0",
+    "wanted": {
+      "dependentId": "/cross-spawn/7.0.3",
+      "name": "shebang-command",
+      "rawSpec": "^2.0.0"
+    }
+  },
+  "152 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/shebang-command/2.0.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "153 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/ajv/6.12.6",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.3.0",
+      "name": "ajv",
+      "rawSpec": "^6.12.4"
+    }
+  },
+  "154 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/debug/4.3.4",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.3.0",
+      "name": "debug",
+      "rawSpec": "^4.3.2"
+    }
+  },
+  "155 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/espree/9.3.2",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.3.0",
+      "name": "espree",
+      "rawSpec": "^9.3.2"
+    }
+  },
+  "156 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/globals/13.15.0",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.3.0",
+      "name": "globals",
+      "rawSpec": "^13.15.0"
+    }
+  },
+  "157 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/ignore/5.2.0",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.3.0",
+      "name": "ignore",
+      "rawSpec": "^5.2.0"
+    }
+  },
+  "158 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/import-fresh/3.3.0",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.3.0",
+      "name": "import-fresh",
+      "rawSpec": "^3.2.1"
+    }
+  },
+  "159 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/js-yaml/4.1.0",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.3.0",
+      "name": "js-yaml",
+      "rawSpec": "^4.1.0"
+    }
+  },
+  "160 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/minimatch/3.1.2",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.3.0",
+      "name": "minimatch",
+      "rawSpec": "^3.1.2"
+    }
+  },
+  "161 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/strip-json-comments/3.1.1",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.3.0",
+      "name": "strip-json-comments",
+      "rawSpec": "^3.1.1"
+    }
+  },
+  "162 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/flat-cache/3.0.4",
+    "wanted": {
+      "dependentId": "/file-entry-cache/6.0.1",
+      "name": "flat-cache",
+      "rawSpec": "^3.0.4"
+    }
+  },
+  "163 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/flat-cache/3.0.4",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "164 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/debug/4.3.4",
+    "wanted": {
+      "dependentId": "/@humanwhocodes/config-array/0.9.5",
+      "name": "debug",
+      "rawSpec": "^4.1.1"
+    }
+  },
+  "165 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/minimatch/3.1.2",
+    "wanted": {
+      "dependentId": "/@humanwhocodes/config-array/0.9.5",
+      "name": "minimatch",
+      "rawSpec": "^3.0.4"
+    }
+  },
+  "166 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/uri-js/4.4.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "167 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/acorn/8.7.1",
+    "wanted": {
+      "dependentId": "/espree/9.3.2",
+      "name": "acorn",
+      "rawSpec": "^8.7.1"
+    }
+  },
+  "168 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/acorn/8.7.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "169 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/estraverse/5.3.0",
+    "wanted": {
+      "dependentId": "/esrecurse/4.3.0",
+      "name": "estraverse",
+      "rawSpec": "^5.2.0"
+    }
+  },
+  "170 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/type-check/0.4.0",
+    "wanted": {
+      "dependentId": "/levn/0.4.1",
+      "name": "type-check",
+      "rawSpec": "~0.4.0"
+    }
+  },
+  "171 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/type-check/0.4.0",
+    "wanted": {
+      "dependentId": "/optionator/0.9.1",
+      "name": "type-check",
+      "rawSpec": "^0.4.0"
+    }
+  },
+  "172 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/type-check/0.4.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "173 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/prelude-ls/1.2.1",
+    "wanted": {
+      "dependentId": "/levn/0.4.1",
+      "name": "prelude-ls",
+      "rawSpec": "^1.2.1"
+    }
+  },
+  "174 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/prelude-ls/1.2.1",
+    "wanted": {
+      "dependentId": "/optionator/0.9.1",
+      "name": "prelude-ls",
+      "rawSpec": "^1.2.1"
+    }
+  },
+  "175 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/prelude-ls/1.2.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "176 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ansi-styles/4.3.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "177 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/esrecurse/4.3.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "178 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/supports-color/7.2.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "179 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/path-key/3.1.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "180 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/which/2.0.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "181 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/shebang-command/2.0.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "182 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/flat-cache/3.0.4",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "183 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/acorn/8.7.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "184 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/type-check/0.4.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "185 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/prelude-ls/1.2.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "186 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/deep-is/0.1.4",
+    "wanted": {
+      "dependentId": "/optionator/0.9.1",
+      "name": "deep-is",
+      "rawSpec": "^0.1.3"
+    }
+  },
+  "187 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/deep-is/0.1.4",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "188 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/word-wrap/1.2.3",
+    "wanted": {
+      "dependentId": "/optionator/0.9.1",
+      "name": "word-wrap",
+      "rawSpec": "^1.2.3"
+    }
+  },
+  "189 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/word-wrap/1.2.3",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "190 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/prelude-ls/1.2.1",
+    "wanted": {
+      "dependentId": "/type-check/0.4.0",
+      "name": "prelude-ls",
+      "rawSpec": "^1.2.1"
+    }
+  },
+  "191 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/brace-expansion/1.1.11",
+    "wanted": {
+      "dependentId": "/minimatch/3.1.2",
+      "name": "brace-expansion",
+      "rawSpec": "^1.1.7"
+    }
+  },
+  "192 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/brace-expansion/1.1.11",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "193 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/punycode/2.1.1",
+    "wanted": {
+      "dependentId": "/uri-js/4.4.1",
+      "name": "punycode",
+      "rawSpec": "^2.1.0"
+    }
+  },
+  "194 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/punycode/2.1.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "195 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/acorn-jsx/5.3.2",
+    "wanted": {
+      "dependentId": "/espree/9.3.2",
+      "name": "acorn-jsx",
+      "rawSpec": "^5.3.2"
+    }
+  },
+  "196 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/acorn-jsx/5.3.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "197 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/resolve-from/4.0.0",
+    "wanted": {
+      "dependentId": "/import-fresh/3.3.0",
+      "name": "resolve-from",
+      "rawSpec": "^4.0.0"
+    }
+  },
+  "198 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/resolve-from/4.0.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "199 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/parent-module/1.0.1",
+    "wanted": {
+      "dependentId": "/import-fresh/3.3.0",
+      "name": "parent-module",
+      "rawSpec": "^1.0.0"
+    }
+  },
+  "200 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/parent-module/1.0.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "201 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/concat-map/0.0.1",
+    "wanted": {
+      "dependentId": "/brace-expansion/1.1.11",
+      "name": "concat-map",
+      "rawSpec": "0.0.1"
+    }
+  },
+  "202 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/concat-map/0.0.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "203 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/word-wrap/1.2.3",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "204 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/deep-is/0.1.4",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "205 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/brace-expansion/1.1.11",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "206 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/punycode/2.1.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "207 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/acorn-jsx/5.3.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "208 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/resolve-from/4.0.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "209 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/parent-module/1.0.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "210 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/concat-map/0.0.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "211 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/color-convert/2.0.1",
+    "wanted": {
+      "dependentId": "/ansi-styles/4.3.0",
+      "name": "color-convert",
+      "rawSpec": "^2.0.1"
+    }
+  },
+  "212 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/color-convert/2.0.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "213 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/color-convert/2.0.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "214 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/ansi-regex/5.0.1",
+    "wanted": {
+      "dependentId": "/strip-ansi/6.0.1",
+      "name": "ansi-regex",
+      "rawSpec": "^5.0.1"
+    }
+  },
+  "215 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ansi-regex/5.0.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "216 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ansi-regex/5.0.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "217 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/type-fest/0.20.2",
+    "wanted": {
+      "dependentId": "/globals/13.15.0",
+      "name": "type-fest",
+      "rawSpec": "^0.20.2"
+    }
+  },
+  "218 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/type-fest/0.20.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "219 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/isexe/2.0.0",
+    "wanted": {
+      "dependentId": "/which/2.0.2",
+      "name": "isexe",
+      "rawSpec": "^2.0.0"
+    }
+  },
+  "220 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/isexe/2.0.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "221 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/has-flag/4.0.0",
+    "wanted": {
+      "dependentId": "/supports-color/7.2.0",
+      "name": "has-flag",
+      "rawSpec": "^4.0.0"
+    }
+  },
+  "222 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/has-flag/4.0.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "223 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/type-fest/0.20.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "224 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/isexe/2.0.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "225 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/has-flag/4.0.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "226 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/fast-levenshtein/2.0.6",
+    "wanted": {
+      "dependentId": "/optionator/0.9.1",
+      "name": "fast-levenshtein",
+      "rawSpec": "^2.0.6"
+    }
+  },
+  "227 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/fast-levenshtein/2.0.6",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "228 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/balanced-match/1.0.2",
+    "wanted": {
+      "dependentId": "/brace-expansion/1.1.11",
+      "name": "balanced-match",
+      "rawSpec": "^1.0.0"
+    }
+  },
+  "229 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/balanced-match/1.0.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "230 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/fast-levenshtein/2.0.6",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "231 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/balanced-match/1.0.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "232 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/flatted/3.2.5",
+    "wanted": {
+      "dependentId": "/flat-cache/3.0.4",
+      "name": "flatted",
+      "rawSpec": "^3.1.0"
+    }
+  },
+  "233 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/flatted/3.2.5",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "234 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/shebang-regex/3.0.0",
+    "wanted": {
+      "dependentId": "/shebang-command/2.0.0",
+      "name": "shebang-regex",
+      "rawSpec": "^3.0.0"
+    }
+  },
+  "235 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/shebang-regex/3.0.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "236 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/color-name/1.1.4",
+    "wanted": {
+      "dependentId": "/color-convert/2.0.1",
+      "name": "color-name",
+      "rawSpec": "~1.1.4"
+    }
+  },
+  "237 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/color-name/1.1.4",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "238 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/flatted/3.2.5",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "239 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/shebang-regex/3.0.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "240 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/color-name/1.1.4",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "241 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/rimraf/3.0.2",
+    "wanted": {
+      "dependentId": "/flat-cache/3.0.4",
+      "name": "rimraf",
+      "rawSpec": "^3.0.2"
+    }
+  },
+  "242 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/rimraf/3.0.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "243 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/rimraf/3.0.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "244 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/callsites/3.1.0",
+    "wanted": {
+      "dependentId": "/parent-module/1.0.1",
+      "name": "callsites",
+      "rawSpec": "^3.0.0"
+    }
+  },
+  "245 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/callsites/3.1.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "246 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/callsites/3.1.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "247 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/glob/7.2.3",
+    "wanted": {
+      "dependentId": "/rimraf/3.0.2",
+      "name": "glob",
+      "rawSpec": "^7.1.3"
+    }
+  },
+  "248 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/glob/7.2.3",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "249 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/minimatch/3.1.2",
+    "wanted": {
+      "dependentId": "/glob/7.2.3",
+      "name": "minimatch",
+      "rawSpec": "^3.1.1"
+    }
+  },
+  "250 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/glob/7.2.3",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "251 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/@humanwhocodes/object-schema/1.2.1",
+    "wanted": {
+      "dependentId": "/@humanwhocodes/config-array/0.9.5",
+      "name": "@humanwhocodes/object-schema",
+      "rawSpec": "^1.2.1"
+    }
+  },
+  "252 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@humanwhocodes/object-schema/1.2.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "253 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/path-is-absolute/1.0.1",
+    "wanted": {
+      "dependentId": "/glob/7.2.3",
+      "name": "path-is-absolute",
+      "rawSpec": "^1.0.0"
+    }
+  },
+  "254 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/path-is-absolute/1.0.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "255 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/fs.realpath/1.0.0",
+    "wanted": {
+      "dependentId": "/glob/7.2.3",
+      "name": "fs.realpath",
+      "rawSpec": "^1.0.0"
+    }
+  },
+  "256 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/fs.realpath/1.0.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "257 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/once/1.4.0",
+    "wanted": {
+      "dependentId": "/glob/7.2.3",
+      "name": "once",
+      "rawSpec": "^1.3.0"
+    }
+  },
+  "258 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/once/1.4.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "259 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@humanwhocodes/object-schema/1.2.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "260 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/fs.realpath/1.0.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "261 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/path-is-absolute/1.0.1",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "262 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/once/1.4.0",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "263 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/inflight/1.0.6",
+    "wanted": {
+      "dependentId": "/glob/7.2.3",
+      "name": "inflight",
+      "rawSpec": "^1.0.4"
+    }
+  },
+  "264 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/inflight/1.0.6",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "265 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/inflight/1.0.6",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "266 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/inherits/2.0.4",
+    "wanted": {
+      "dependentId": "/glob/7.2.3",
+      "name": "inherits",
+      "rawSpec": "2"
+    }
+  },
+  "267 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/inherits/2.0.4",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "268 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/once/1.4.0",
+    "wanted": {
+      "dependentId": "/inflight/1.0.6",
+      "name": "once",
+      "rawSpec": "^1.3.0"
+    }
+  },
+  "269 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/inherits/2.0.4",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "270 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/wrappy/1.0.2",
+    "wanted": {
+      "dependentId": "/once/1.4.0",
+      "name": "wrappy",
+      "rawSpec": "1"
+    }
+  },
+  "271 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/wrappy/1.0.2",
+    "wanted": {
+      "dependentId": "/inflight/1.0.6",
+      "name": "wrappy",
+      "rawSpec": "1"
+    }
+  },
+  "272 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/wrappy/1.0.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "resolved"
+  },
+  "273 debug pnpm:package-manifest": {
+    "prefix": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "updated": {
+      "dependencies": {
+        "eslint": "^8.18.0"
+      }
+    }
+  },
+  "274 debug pnpm:package-manifest": {
+    "prefix": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "updated": {
+      "dependencies": {
+        "eslint": "^8.18.0"
+      }
+    }
+  },
+  "275 debug pnpm:stage": {
+    "prefix": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "stage": "resolution_done"
+  },
+  "276 debug pnpm:stats": {
+    "prefix": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "removed": 0
+  },
+  "277 debug pnpm:stage": {
+    "prefix": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "stage": "importing_started"
+  },
+  "278 debug pnpm:stats": {
+    "added": 82,
+    "prefix": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638"
+  },
+  "279 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/wrappy/1.0.2",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "found_in_store"
+  },
+  "280 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/@eslint+eslintrc@1.3.0/node_modules/@eslint/eslintrc",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/@eslint/eslintrc"
+  },
+  "281 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/@humanwhocodes+config-array@0.9.5/node_modules/@humanwhocodes/config-array",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/@humanwhocodes/config-array"
+  },
+  "282 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ajv@6.12.6/node_modules/ajv",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/ajv"
+  },
+  "283 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/chalk@4.1.2/node_modules/chalk",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/chalk"
+  },
+  "284 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/cross-spawn@7.0.3/node_modules/cross-spawn",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/cross-spawn"
+  },
+  "285 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/debug@4.3.4/node_modules/debug",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/debug"
+  },
+  "286 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/doctrine@3.0.0/node_modules/doctrine",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/doctrine"
+  },
+  "287 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/escape-string-regexp@4.0.0/node_modules/escape-string-regexp",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/escape-string-regexp"
+  },
+  "288 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint-scope@7.1.1/node_modules/eslint-scope",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/eslint-scope"
+  },
+  "289 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint-utils@3.0.0_eslint@8.18.0/node_modules/eslint-utils",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/eslint-utils"
+  },
+  "290 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint-visitor-keys@3.3.0/node_modules/eslint-visitor-keys",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/eslint-visitor-keys"
+  },
+  "291 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/espree@9.3.2/node_modules/espree",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/espree"
+  },
+  "292 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/esquery@1.4.0/node_modules/esquery",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/esquery"
+  },
+  "293 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/esutils@2.0.3/node_modules/esutils",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/esutils"
+  },
+  "294 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/fast-deep-equal@3.1.3/node_modules/fast-deep-equal",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/fast-deep-equal"
+  },
+  "295 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/file-entry-cache@6.0.1/node_modules/file-entry-cache",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/file-entry-cache"
+  },
+  "296 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/functional-red-black-tree@1.0.1/node_modules/functional-red-black-tree",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/functional-red-black-tree"
+  },
+  "297 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/glob-parent@6.0.2/node_modules/glob-parent",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/glob-parent"
+  },
+  "298 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/globals@13.15.0/node_modules/globals",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/globals"
+  },
+  "299 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ignore@5.2.0/node_modules/ignore",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/ignore"
+  },
+  "300 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/import-fresh@3.3.0/node_modules/import-fresh",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/import-fresh"
+  },
+  "301 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/imurmurhash@0.1.4/node_modules/imurmurhash",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/imurmurhash"
+  },
+  "302 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/is-glob@4.0.3/node_modules/is-glob",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/is-glob"
+  },
+  "303 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/js-yaml"
+  },
+  "304 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/json-stable-stringify-without-jsonify@1.0.1/node_modules/json-stable-stringify-without-jsonify",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/json-stable-stringify-without-jsonify"
+  },
+  "305 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/levn@0.4.1/node_modules/levn",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/levn"
+  },
+  "306 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/lodash.merge@4.6.2/node_modules/lodash.merge",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/lodash.merge"
+  },
+  "307 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/minimatch@3.1.2/node_modules/minimatch",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/minimatch"
+  },
+  "308 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/natural-compare@1.4.0/node_modules/natural-compare",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/natural-compare"
+  },
+  "309 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/optionator@0.9.1/node_modules/optionator",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/optionator"
+  },
+  "310 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/regexpp@3.2.0/node_modules/regexpp",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/regexpp"
+  },
+  "311 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/strip-ansi@6.0.1/node_modules/strip-ansi",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/strip-ansi"
+  },
+  "312 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/strip-json-comments@3.1.1/node_modules/strip-json-comments",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/strip-json-comments"
+  },
+  "313 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/text-table@0.2.0/node_modules/text-table",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/text-table"
+  },
+  "314 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/v8-compile-cache@2.3.0/node_modules/v8-compile-cache",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/v8-compile-cache"
+  },
+  "315 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ajv@6.12.6/node_modules/ajv",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/@eslint+eslintrc@1.3.0/node_modules/ajv"
+  },
+  "316 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/debug@4.3.4/node_modules/debug",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/@eslint+eslintrc@1.3.0/node_modules/debug"
+  },
+  "317 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/espree@9.3.2/node_modules/espree",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/@eslint+eslintrc@1.3.0/node_modules/espree"
+  },
+  "318 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/globals@13.15.0/node_modules/globals",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/@eslint+eslintrc@1.3.0/node_modules/globals"
+  },
+  "319 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ignore@5.2.0/node_modules/ignore",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/@eslint+eslintrc@1.3.0/node_modules/ignore"
+  },
+  "320 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/import-fresh@3.3.0/node_modules/import-fresh",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/@eslint+eslintrc@1.3.0/node_modules/import-fresh"
+  },
+  "321 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/@eslint+eslintrc@1.3.0/node_modules/js-yaml"
+  },
+  "322 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/minimatch@3.1.2/node_modules/minimatch",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/@eslint+eslintrc@1.3.0/node_modules/minimatch"
+  },
+  "323 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/strip-json-comments@3.1.1/node_modules/strip-json-comments",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/@eslint+eslintrc@1.3.0/node_modules/strip-json-comments"
+  },
+  "324 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/@humanwhocodes+object-schema@1.2.1/node_modules/@humanwhocodes/object-schema",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/@humanwhocodes+config-array@0.9.5/node_modules/@humanwhocodes/object-schema"
+  },
+  "325 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/debug@4.3.4/node_modules/debug",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/@humanwhocodes+config-array@0.9.5/node_modules/debug"
+  },
+  "326 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/minimatch@3.1.2/node_modules/minimatch",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/@humanwhocodes+config-array@0.9.5/node_modules/minimatch"
+  },
+  "327 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/fast-deep-equal@3.1.3/node_modules/fast-deep-equal",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ajv@6.12.6/node_modules/fast-deep-equal"
+  },
+  "328 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/fast-json-stable-stringify@2.1.0/node_modules/fast-json-stable-stringify",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ajv@6.12.6/node_modules/fast-json-stable-stringify"
+  },
+  "329 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/json-schema-traverse@0.4.1/node_modules/json-schema-traverse",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ajv@6.12.6/node_modules/json-schema-traverse"
+  },
+  "330 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/uri-js@4.4.1/node_modules/uri-js",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ajv@6.12.6/node_modules/uri-js"
+  },
+  "331 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/punycode@2.1.1/node_modules/punycode",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/uri-js@4.4.1/node_modules/punycode"
+  },
+  "332 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ansi-styles@4.3.0/node_modules/ansi-styles",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/chalk@4.1.2/node_modules/ansi-styles"
+  },
+  "333 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/supports-color@7.2.0/node_modules/supports-color",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/chalk@4.1.2/node_modules/supports-color"
+  },
+  "334 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/color-convert@2.0.1/node_modules/color-convert",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ansi-styles@4.3.0/node_modules/color-convert"
+  },
+  "335 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/color-name@1.1.4/node_modules/color-name",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/color-convert@2.0.1/node_modules/color-name"
+  },
+  "336 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/has-flag@4.0.0/node_modules/has-flag",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/supports-color@7.2.0/node_modules/has-flag"
+  },
+  "337 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/path-key@3.1.1/node_modules/path-key",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/cross-spawn@7.0.3/node_modules/path-key"
+  },
+  "338 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/shebang-command@2.0.0/node_modules/shebang-command",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/cross-spawn@7.0.3/node_modules/shebang-command"
+  },
+  "339 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/which@2.0.2/node_modules/which",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/cross-spawn@7.0.3/node_modules/which"
+  },
+  "340 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/shebang-regex@3.0.0/node_modules/shebang-regex",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/shebang-command@2.0.0/node_modules/shebang-regex"
+  },
+  "341 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/isexe@2.0.0/node_modules/isexe",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/which@2.0.2/node_modules/isexe"
+  },
+  "342 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ms@2.1.2/node_modules/ms",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/debug@4.3.4/node_modules/ms"
+  },
+  "343 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/esutils@2.0.3/node_modules/esutils",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/doctrine@3.0.0/node_modules/esutils"
+  },
+  "344 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/esrecurse@4.3.0/node_modules/esrecurse",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint-scope@7.1.1/node_modules/esrecurse"
+  },
+  "345 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/estraverse@5.3.0/node_modules/estraverse",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint-scope@7.1.1/node_modules/estraverse"
+  },
+  "346 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/estraverse@5.3.0/node_modules/estraverse",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/esrecurse@4.3.0/node_modules/estraverse"
+  },
+  "347 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint-visitor-keys@2.1.0/node_modules/eslint-visitor-keys",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint-utils@3.0.0_eslint@8.18.0/node_modules/eslint-visitor-keys"
+  },
+  "348 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/eslint",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint-utils@3.0.0_eslint@8.18.0/node_modules/eslint"
+  },
+  "349 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/acorn@8.7.1/node_modules/acorn",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/espree@9.3.2/node_modules/acorn"
+  },
+  "350 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/acorn-jsx@5.3.2_acorn@8.7.1/node_modules/acorn-jsx",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/espree@9.3.2/node_modules/acorn-jsx"
+  },
+  "351 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint-visitor-keys@3.3.0/node_modules/eslint-visitor-keys",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/espree@9.3.2/node_modules/eslint-visitor-keys"
+  },
+  "352 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/acorn@8.7.1/node_modules/acorn",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/acorn-jsx@5.3.2_acorn@8.7.1/node_modules/acorn"
+  },
+  "353 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/estraverse@5.3.0/node_modules/estraverse",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/esquery@1.4.0/node_modules/estraverse"
+  },
+  "354 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/flat-cache@3.0.4/node_modules/flat-cache",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/file-entry-cache@6.0.1/node_modules/flat-cache"
+  },
+  "355 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/flatted@3.2.5/node_modules/flatted",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/flat-cache@3.0.4/node_modules/flatted"
+  },
+  "356 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/rimraf@3.0.2/node_modules/rimraf",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/flat-cache@3.0.4/node_modules/rimraf"
+  },
+  "357 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/glob@7.2.3/node_modules/glob",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/rimraf@3.0.2/node_modules/glob"
+  },
+  "358 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/fs.realpath@1.0.0/node_modules/fs.realpath",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/glob@7.2.3/node_modules/fs.realpath"
+  },
+  "359 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/inflight@1.0.6/node_modules/inflight",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/glob@7.2.3/node_modules/inflight"
+  },
+  "360 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/inherits@2.0.4/node_modules/inherits",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/glob@7.2.3/node_modules/inherits"
+  },
+  "361 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/minimatch@3.1.2/node_modules/minimatch",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/glob@7.2.3/node_modules/minimatch"
+  },
+  "362 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/once@1.4.0/node_modules/once",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/glob@7.2.3/node_modules/once"
+  },
+  "363 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/path-is-absolute@1.0.1/node_modules/path-is-absolute",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/glob@7.2.3/node_modules/path-is-absolute"
+  },
+  "364 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/once@1.4.0/node_modules/once",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/inflight@1.0.6/node_modules/once"
+  },
+  "365 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/wrappy@1.0.2/node_modules/wrappy",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/inflight@1.0.6/node_modules/wrappy"
+  },
+  "366 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/wrappy@1.0.2/node_modules/wrappy",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/once@1.4.0/node_modules/wrappy"
+  },
+  "367 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/is-glob@4.0.3/node_modules/is-glob",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/glob-parent@6.0.2/node_modules/is-glob"
+  },
+  "368 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/type-fest@0.20.2/node_modules/type-fest",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/globals@13.15.0/node_modules/type-fest"
+  },
+  "369 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/parent-module@1.0.1/node_modules/parent-module",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/import-fresh@3.3.0/node_modules/parent-module"
+  },
+  "370 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/resolve-from@4.0.0/node_modules/resolve-from",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/import-fresh@3.3.0/node_modules/resolve-from"
+  },
+  "371 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/callsites@3.1.0/node_modules/callsites",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/parent-module@1.0.1/node_modules/callsites"
+  },
+  "372 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/is-extglob@2.1.1/node_modules/is-extglob",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/is-glob@4.0.3/node_modules/is-extglob"
+  },
+  "373 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/argparse@2.0.1/node_modules/argparse",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/js-yaml@4.1.0/node_modules/argparse"
+  },
+  "374 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/prelude-ls@1.2.1/node_modules/prelude-ls",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/levn@0.4.1/node_modules/prelude-ls"
+  },
+  "375 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/type-check@0.4.0/node_modules/type-check",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/levn@0.4.1/node_modules/type-check"
+  },
+  "376 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/prelude-ls@1.2.1/node_modules/prelude-ls",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/type-check@0.4.0/node_modules/prelude-ls"
+  },
+  "377 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/brace-expansion@1.1.11/node_modules/brace-expansion",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/minimatch@3.1.2/node_modules/brace-expansion"
+  },
+  "378 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/balanced-match@1.0.2/node_modules/balanced-match",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/brace-expansion@1.1.11/node_modules/balanced-match"
+  },
+  "379 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/concat-map@0.0.1/node_modules/concat-map",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/brace-expansion@1.1.11/node_modules/concat-map"
+  },
+  "380 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/prelude-ls@1.2.1/node_modules/prelude-ls",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/optionator@0.9.1/node_modules/prelude-ls"
+  },
+  "381 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/deep-is@0.1.4/node_modules/deep-is",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/optionator@0.9.1/node_modules/deep-is"
+  },
+  "382 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/word-wrap@1.2.3/node_modules/word-wrap",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/optionator@0.9.1/node_modules/word-wrap"
+  },
+  "383 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/type-check@0.4.0/node_modules/type-check",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/optionator@0.9.1/node_modules/type-check"
+  },
+  "384 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/levn@0.4.1/node_modules/levn",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/optionator@0.9.1/node_modules/levn"
+  },
+  "385 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/fast-levenshtein@2.0.6/node_modules/fast-levenshtein",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/optionator@0.9.1/node_modules/fast-levenshtein"
+  },
+  "386 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ansi-regex@5.0.1/node_modules/ansi-regex",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/strip-ansi@6.0.1/node_modules/ansi-regex"
+  },
+  "387 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "388 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/@humanwhocodes+config-array@0.9.5/node_modules/@humanwhocodes/config-array"
+  },
+  "389 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "390 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ansi-styles@4.3.0/node_modules/ansi-styles"
+  },
+  "391 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "392 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/punycode@2.1.1/node_modules/punycode"
+  },
+  "393 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "394 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/color-name@1.1.4/node_modules/color-name"
+  },
+  "395 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "396 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/supports-color@7.2.0/node_modules/supports-color"
+  },
+  "397 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "398 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/color-convert@2.0.1/node_modules/color-convert"
+  },
+  "399 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "400 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/has-flag@4.0.0/node_modules/has-flag"
+  },
+  "401 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/path-key@3.1.1/node_modules/path-key"
+  },
+  "402 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/shebang-command@2.0.0/node_modules/shebang-command"
+  },
+  "403 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/shebang-regex@3.0.0/node_modules/shebang-regex"
+  },
+  "404 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "405 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/fast-json-stable-stringify@2.1.0/node_modules/fast-json-stable-stringify"
+  },
+  "406 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "407 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/chalk@4.1.2/node_modules/chalk"
+  },
+  "408 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ms@2.1.2/node_modules/ms"
+  },
+  "409 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/which@2.0.2/node_modules/which"
+  },
+  "410 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/isexe@2.0.0/node_modules/isexe"
+  },
+  "411 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/debug@4.3.4/node_modules/debug"
+  },
+  "412 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "413 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/@eslint+eslintrc@1.3.0/node_modules/@eslint/eslintrc"
+  },
+  "414 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/doctrine@3.0.0/node_modules/doctrine"
+  },
+  "415 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/escape-string-regexp@4.0.0/node_modules/escape-string-regexp"
+  },
+  "416 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/esrecurse@4.3.0/node_modules/esrecurse"
+  },
+  "417 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/estraverse@5.3.0/node_modules/estraverse"
+  },
+  "418 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint-utils@3.0.0_eslint@8.18.0/node_modules/eslint-utils"
+  },
+  "419 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "420 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ajv@6.12.6/node_modules/ajv"
+  },
+  "421 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "422 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/@humanwhocodes+object-schema@1.2.1/node_modules/@humanwhocodes/object-schema"
+  },
+  "423 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint-scope@7.1.1/node_modules/eslint-scope"
+  },
+  "424 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint-visitor-keys@2.1.0/node_modules/eslint-visitor-keys"
+  },
+  "425 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint-visitor-keys@3.3.0/node_modules/eslint-visitor-keys"
+  },
+  "426 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/espree@9.3.2/node_modules/espree"
+  },
+  "427 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/acorn@8.7.1/node_modules/acorn"
+  },
+  "428 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "429 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/json-schema-traverse@0.4.1/node_modules/json-schema-traverse"
+  },
+  "430 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "431 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/cross-spawn@7.0.3/node_modules/cross-spawn"
+  },
+  "432 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/acorn-jsx@5.3.2_acorn@8.7.1/node_modules/acorn-jsx"
+  },
+  "433 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/file-entry-cache@6.0.1/node_modules/file-entry-cache"
+  },
+  "434 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/esquery@1.4.0/node_modules/esquery"
+  },
+  "435 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/rimraf@3.0.2/node_modules/rimraf"
+  },
+  "436 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/esutils@2.0.3/node_modules/esutils"
+  },
+  "437 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/fast-deep-equal@3.1.3/node_modules/fast-deep-equal"
+  },
+  "438 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/flat-cache@3.0.4/node_modules/flat-cache"
+  },
+  "439 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/glob@7.2.3/node_modules/glob"
+  },
+  "440 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/fs.realpath@1.0.0/node_modules/fs.realpath"
+  },
+  "441 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/inflight@1.0.6/node_modules/inflight"
+  },
+  "442 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/wrappy@1.0.2/node_modules/wrappy"
+  },
+  "443 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "444 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/eslint"
+  },
+  "445 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/inherits@2.0.4/node_modules/inherits"
+  },
+  "446 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/once@1.4.0/node_modules/once"
+  },
+  "447 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/flatted@3.2.5/node_modules/flatted"
+  },
+  "448 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "449 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/uri-js@4.4.1/node_modules/uri-js"
+  },
+  "450 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/path-is-absolute@1.0.1/node_modules/path-is-absolute"
+  },
+  "451 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/glob-parent@6.0.2/node_modules/glob-parent"
+  },
+  "452 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ignore@5.2.0/node_modules/ignore"
+  },
+  "453 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/globals@13.15.0/node_modules/globals"
+  },
+  "454 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/functional-red-black-tree@1.0.1/node_modules/functional-red-black-tree"
+  },
+  "455 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/import-fresh@3.3.0/node_modules/import-fresh"
+  },
+  "456 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/parent-module@1.0.1/node_modules/parent-module"
+  },
+  "457 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/callsites@3.1.0/node_modules/callsites"
+  },
+  "458 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/type-fest@0.20.2/node_modules/type-fest"
+  },
+  "459 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/resolve-from@4.0.0/node_modules/resolve-from"
+  },
+  "460 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/imurmurhash@0.1.4/node_modules/imurmurhash"
+  },
+  "461 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/is-glob@4.0.3/node_modules/is-glob"
+  },
+  "462 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/is-extglob@2.1.1/node_modules/is-extglob"
+  },
+  "463 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml"
+  },
+  "464 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/argparse@2.0.1/node_modules/argparse"
+  },
+  "465 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/json-stable-stringify-without-jsonify@1.0.1/node_modules/json-stable-stringify-without-jsonify"
+  },
+  "466 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/levn@0.4.1/node_modules/levn"
+  },
+  "467 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/lodash.merge@4.6.2/node_modules/lodash.merge"
+  },
+  "468 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/minimatch@3.1.2/node_modules/minimatch"
+  },
+  "469 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/brace-expansion@1.1.11/node_modules/brace-expansion"
+  },
+  "470 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/prelude-ls@1.2.1/node_modules/prelude-ls"
+  },
+  "471 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/natural-compare@1.4.0/node_modules/natural-compare"
+  },
+  "472 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/type-check@0.4.0/node_modules/type-check"
+  },
+  "473 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/balanced-match@1.0.2/node_modules/balanced-match"
+  },
+  "474 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/concat-map@0.0.1/node_modules/concat-map"
+  },
+  "475 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/word-wrap@1.2.3/node_modules/word-wrap"
+  },
+  "476 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/optionator@0.9.1/node_modules/optionator"
+  },
+  "477 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/fast-levenshtein@2.0.6/node_modules/fast-levenshtein"
+  },
+  "478 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/deep-is@0.1.4/node_modules/deep-is"
+  },
+  "479 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/regexpp@3.2.0/node_modules/regexpp"
+  },
+  "480 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/strip-ansi@6.0.1/node_modules/strip-ansi"
+  },
+  "481 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ansi-regex@5.0.1/node_modules/ansi-regex"
+  },
+  "482 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/strip-json-comments@3.1.1/node_modules/strip-json-comments"
+  },
+  "483 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/v8-compile-cache@2.3.0/node_modules/v8-compile-cache"
+  },
+  "484 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "status": "imported",
+    "to": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/text-table@0.2.0/node_modules/text-table"
+  },
+  "485 debug pnpm:stage": {
+    "prefix": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638",
+    "stage": "importing_done"
+  },
+  "486 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint@8.18.0/node_modules/eslint",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/eslint"
+  },
+  "487 debug pnpm:root": {
+    "added": {
+      "dependencyType": "prod",
+      "id": "registry.npmjs.org/eslint/8.18.0",
+      "name": "eslint",
+      "realName": "eslint",
+      "version": "8.18.0"
+    },
+    "prefix": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638"
+  },
+  "488 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/@eslint+eslintrc@1.3.0/node_modules/@eslint/eslintrc",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/@eslint/eslintrc"
+  },
+  "489 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/@humanwhocodes+config-array@0.9.5/node_modules/@humanwhocodes/config-array",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/@humanwhocodes/config-array"
+  },
+  "490 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ajv@6.12.6/node_modules/ajv",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/ajv"
+  },
+  "491 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/chalk@4.1.2/node_modules/chalk",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/chalk"
+  },
+  "492 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/cross-spawn@7.0.3/node_modules/cross-spawn",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/cross-spawn"
+  },
+  "493 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/debug@4.3.4/node_modules/debug",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/debug"
+  },
+  "494 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/doctrine@3.0.0/node_modules/doctrine",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/doctrine"
+  },
+  "495 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/escape-string-regexp@4.0.0/node_modules/escape-string-regexp",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/escape-string-regexp"
+  },
+  "496 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint-scope@7.1.1/node_modules/eslint-scope",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/eslint-scope"
+  },
+  "497 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint-utils@3.0.0_eslint@8.18.0/node_modules/eslint-utils",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/eslint-utils"
+  },
+  "498 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/eslint-visitor-keys@3.3.0/node_modules/eslint-visitor-keys",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/eslint-visitor-keys"
+  },
+  "499 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/espree@9.3.2/node_modules/espree",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/espree"
+  },
+  "500 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/esquery@1.4.0/node_modules/esquery",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/esquery"
+  },
+  "501 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/esutils@2.0.3/node_modules/esutils",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/esutils"
+  },
+  "502 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/fast-deep-equal@3.1.3/node_modules/fast-deep-equal",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/fast-deep-equal"
+  },
+  "503 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/file-entry-cache@6.0.1/node_modules/file-entry-cache",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/file-entry-cache"
+  },
+  "504 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/functional-red-black-tree@1.0.1/node_modules/functional-red-black-tree",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/functional-red-black-tree"
+  },
+  "505 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/glob-parent@6.0.2/node_modules/glob-parent",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/glob-parent"
+  },
+  "506 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/globals@13.15.0/node_modules/globals",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/globals"
+  },
+  "507 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ignore@5.2.0/node_modules/ignore",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/ignore"
+  },
+  "508 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/import-fresh@3.3.0/node_modules/import-fresh",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/import-fresh"
+  },
+  "509 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/imurmurhash@0.1.4/node_modules/imurmurhash",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/imurmurhash"
+  },
+  "510 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/is-glob@4.0.3/node_modules/is-glob",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/is-glob"
+  },
+  "511 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/js-yaml"
+  },
+  "512 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/json-stable-stringify-without-jsonify@1.0.1/node_modules/json-stable-stringify-without-jsonify",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/json-stable-stringify-without-jsonify"
+  },
+  "513 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/levn@0.4.1/node_modules/levn",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/levn"
+  },
+  "514 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/lodash.merge@4.6.2/node_modules/lodash.merge",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/lodash.merge"
+  },
+  "515 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/minimatch@3.1.2/node_modules/minimatch",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/minimatch"
+  },
+  "516 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/natural-compare@1.4.0/node_modules/natural-compare",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/natural-compare"
+  },
+  "517 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/optionator@0.9.1/node_modules/optionator",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/optionator"
+  },
+  "518 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/regexpp@3.2.0/node_modules/regexpp",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/regexpp"
+  },
+  "519 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/strip-ansi@6.0.1/node_modules/strip-ansi",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/strip-ansi"
+  },
+  "520 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/strip-json-comments@3.1.1/node_modules/strip-json-comments",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/strip-json-comments"
+  },
+  "521 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/text-table@0.2.0/node_modules/text-table",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/text-table"
+  },
+  "522 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/v8-compile-cache@2.3.0/node_modules/v8-compile-cache",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/v8-compile-cache"
+  },
+  "523 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/@humanwhocodes+object-schema@1.2.1/node_modules/@humanwhocodes/object-schema",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/@humanwhocodes/object-schema"
+  },
+  "524 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/fast-json-stable-stringify@2.1.0/node_modules/fast-json-stable-stringify",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/fast-json-stable-stringify"
+  },
+  "525 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/json-schema-traverse@0.4.1/node_modules/json-schema-traverse",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/json-schema-traverse"
+  },
+  "526 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/uri-js@4.4.1/node_modules/uri-js",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/uri-js"
+  },
+  "527 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ansi-styles@4.3.0/node_modules/ansi-styles",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/ansi-styles"
+  },
+  "528 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/supports-color@7.2.0/node_modules/supports-color",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/supports-color"
+  },
+  "529 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/path-key@3.1.1/node_modules/path-key",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/path-key"
+  },
+  "530 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/shebang-command@2.0.0/node_modules/shebang-command",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/shebang-command"
+  },
+  "531 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/which@2.0.2/node_modules/which",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/which"
+  },
+  "532 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ms@2.1.2/node_modules/ms",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/ms"
+  },
+  "533 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/esrecurse@4.3.0/node_modules/esrecurse",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/esrecurse"
+  },
+  "534 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/estraverse@5.3.0/node_modules/estraverse",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/estraverse"
+  },
+  "535 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/acorn@8.7.1/node_modules/acorn",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/acorn"
+  },
+  "536 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/acorn-jsx@5.3.2_acorn@8.7.1/node_modules/acorn-jsx",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/acorn-jsx"
+  },
+  "537 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/flat-cache@3.0.4/node_modules/flat-cache",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/flat-cache"
+  },
+  "538 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/type-fest@0.20.2/node_modules/type-fest",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/type-fest"
+  },
+  "539 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/parent-module@1.0.1/node_modules/parent-module",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/parent-module"
+  },
+  "540 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/resolve-from@4.0.0/node_modules/resolve-from",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/resolve-from"
+  },
+  "541 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/is-extglob@2.1.1/node_modules/is-extglob",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/is-extglob"
+  },
+  "542 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/argparse@2.0.1/node_modules/argparse",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/argparse"
+  },
+  "543 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/prelude-ls@1.2.1/node_modules/prelude-ls",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/prelude-ls"
+  },
+  "544 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/type-check@0.4.0/node_modules/type-check",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/type-check"
+  },
+  "545 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/brace-expansion@1.1.11/node_modules/brace-expansion",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/brace-expansion"
+  },
+  "546 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/deep-is@0.1.4/node_modules/deep-is",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/deep-is"
+  },
+  "547 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/word-wrap@1.2.3/node_modules/word-wrap",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/word-wrap"
+  },
+  "548 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/fast-levenshtein@2.0.6/node_modules/fast-levenshtein",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/fast-levenshtein"
+  },
+  "549 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/ansi-regex@5.0.1/node_modules/ansi-regex",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/ansi-regex"
+  },
+  "550 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/color-convert@2.0.1/node_modules/color-convert",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/color-convert"
+  },
+  "551 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/balanced-match@1.0.2/node_modules/balanced-match",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/balanced-match"
+  },
+  "552 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/concat-map@0.0.1/node_modules/concat-map",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/concat-map"
+  },
+  "553 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/flatted@3.2.5/node_modules/flatted",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/flatted"
+  },
+  "554 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/rimraf@3.0.2/node_modules/rimraf",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/rimraf"
+  },
+  "555 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/callsites@3.1.0/node_modules/callsites",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/callsites"
+  },
+  "556 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/shebang-regex@3.0.0/node_modules/shebang-regex",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/shebang-regex"
+  },
+  "557 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/has-flag@4.0.0/node_modules/has-flag",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/has-flag"
+  },
+  "558 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/punycode@2.1.1/node_modules/punycode",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/punycode"
+  },
+  "559 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/isexe@2.0.0/node_modules/isexe",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/isexe"
+  },
+  "560 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/color-name@1.1.4/node_modules/color-name",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/color-name"
+  },
+  "561 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/glob@7.2.3/node_modules/glob",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/glob"
+  },
+  "562 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/fs.realpath@1.0.0/node_modules/fs.realpath",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/fs.realpath"
+  },
+  "563 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/inflight@1.0.6/node_modules/inflight",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/inflight"
+  },
+  "564 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/inherits@2.0.4/node_modules/inherits",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/inherits"
+  },
+  "565 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/once@1.4.0/node_modules/once",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/once"
+  },
+  "566 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/path-is-absolute@1.0.1/node_modules/path-is-absolute",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/path-is-absolute"
+  },
+  "567 debug pnpm:link": {
+    "target": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/wrappy@1.0.2/node_modules/wrappy",
+    "link": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.pnpm/node_modules/wrappy"
+  },
+  "568 debug pnpm:summary": {
+    "prefix": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638"
+  },
+  "569 error pnpm": {
+    "shortMessage": "Command failed with exit code 2: /media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.bin/eslint init",
+    "command": "/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.bin/eslint init",
+    "escapedCommand": "\"/media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.bin/eslint\" init",
+    "exitCode": 2,
+    "failed": true,
+    "timedOut": false,
+    "isCanceled": false,
+    "killed": false,
+    "err": {
+      "name": "pnpm",
+      "message": "Command failed with exit code 2: /media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.bin/eslint init",
+      "stack": "pnpm: Command failed with exit code 2: /media/robhicks/Data/.pnpm-store/v3/tmp/dlx-687638/node_modules/.bin/eslint init\n    at makeError (/home/robhicks/.local/share/pnpm/global/5/.pnpm/pnpm@7.3.0/node_modules/pnpm/dist/pnpx.cjs:16527:17)\n    at handlePromise (/home/robhicks/.local/share/pnpm/global/5/.pnpm/pnpm@7.3.0/node_modules/pnpm/dist/pnpx.cjs:17098:33)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async Object.handler [as dlx] (/home/robhicks/.local/share/pnpm/global/5/.pnpm/pnpm@7.3.0/node_modules/pnpm/dist/pnpx.cjs:178696:7)\n    at async /home/robhicks/.local/share/pnpm/global/5/.pnpm/pnpm@7.3.0/node_modules/pnpm/dist/pnpx.cjs:187855:21\n    at async run (/home/robhicks/.local/share/pnpm/global/5/.pnpm/pnpm@7.3.0/node_modules/pnpm/dist/pnpx.cjs:187829:34)\n    at async /home/robhicks/.local/share/pnpm/global/5/.pnpm/pnpm@7.3.0/node_modules/pnpm/dist/pnpx.cjs:187901:5"
+    }
+  }
+}
