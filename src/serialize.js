@@ -1,1 +1,3 @@
-export const serialize = (obj) => JSON.stringify(obj);
+const serialize = (obj) => JSON.stringify(obj);
+
+export default serialize;

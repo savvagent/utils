@@ -1,21 +1,68 @@
 {
   "name": "@savvagent/utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
-  "main": "index.js",
   "scripts": {
+    "build": "node esbuild.config.js",
+    "dev": "node esbuild.config.watch.js",
+    "prepublish": "node esbuild.config.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "exports": {
-    "./package.json": "./package.json",
-    ".": "./src/*"
+    "atSize": {
+      "import": "./dist/mjs/atSize.mjs",
+      "require": "./dist/cjs/atSize.cjs"
+    },
+    "clickOutside": {
+      "import": "./dist/mjs/clickOutside.mjs",
+      "require": "./dist/cjs/clickOutside.cjs"
+    },
+    "copy": {
+      "import": "./dist/mjs/copy.mjs",
+      "require": "./dist/cjs/copy.cjs"
+    },
+    "debounce": {
+      "import": "./dist/mjs/debounce.mjs",
+      "require": "./dist/cjs/debounce.cjs"
+    }
+    ,
+    "deepEquals": {
+      "import": "./dist/mjs/deepEquals.mjs",
+      "require": "./dist/cjs/deepEquals.cjs"
+    },
+    "emailValidator": {
+      "import": "./dist/mjs/emailValidator.mjs",
+      "require": "./dist/cjs/emailValidator.cjs"
+    },
+    "empty": {
+      "import": "./dist/mjs/empty.mjs",
+      "require": "./dist/cjs/empty.cjs"
+    },
+    "isJson": {
+      "import": "./dist/mjs/isJson.mjs",
+      "require": "./dist/cjs/isJson.cjs"
+    },
+    "serialize": {
+      "import": "./dist/mjs/serialize.mjs",
+      "require": "./dist/cjs/serialize.cjs"
+    },
+    "uniqueId": {
+      "import": "./dist/mjs/uniqueId.mjs",
+      "require": "./dist/cjs/uniqueId.cjs"
+    },
+    "uuid": {
+      "import": "./dist/mjs/uuid.mjs",
+      "require": "./dist/cjs/uuid.cjs"
+    }
   },
   "devDependencies": {
+    "esbuild": "^0.14.46",
     "eslint": "^7.32.0 || ^8.2.0",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.25.2"
+    "eslint-plugin-import": "^2.25.2",
+    "glob": "^8.0.3"
   }
 }

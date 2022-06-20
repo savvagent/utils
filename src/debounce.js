@@ -1,3 +1,4 @@
+/* eslint-disable max-len */
 /**
  * Debounces a function invoking the function after a wait in milliseconds.
  * @param  {[Function]}  func          Function to debounce
@@ -6,17 +7,16 @@
  * @return {[type]}                    [description]
  */
 export default (func, wait = 250, immediate = false) => {
-  if (typeof func !== 'function') throw new Error('function required')
-  let timeout
+  if (typeof func !== 'function') throw new Error('function required');
+  let timeout;
   return (...args) => {
-    const context = this
     const later = () => {
-      timeout = null
-      if (!immediate) func.apply(context, args)
-    }
-    const callNow = immediate && !timeout
-    clearTimeout(timeout)
-    timeout = setTimeout(later, wait)
-    if (callNow) func.apply(context, args)
-  }
-}
+      timeout = null;
+      if (!immediate) func.apply(this, args);
+    };
+    const callNow = immediate && !timeout;
+    clearTimeout(timeout);
+    timeout = setTimeout(later, wait);
+    if (callNow) func.apply(this, args);
+  };
+};

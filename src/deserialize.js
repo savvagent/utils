@@ -1,3 +1,5 @@
-import { isJson } from './isJson';
+import isJson from './isJson';
 
-export const deserialize = (str) => isJson(str) || {};
+const deserialize = (str) => isJson(str) || {};
+
+export default deserialize;
